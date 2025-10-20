@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body { @apply font-rubik bg-white text-gray-900; }
+}
+
+@layer components {
+  .btn-primary   { @apply bg-secondary-orange text-white font-bold py-3 px-6 rounded-xl hover:opacity-90 transition; }
+  .card-cefora   { @apply bg-white rounded-2xl p-6 shadow-card; }
+  .input-ghost   { @apply w-full bg-transparent outline-none text-cefora-violet; }
+  .badge-mint    { @apply bg-accent-mint text-white px-3 py-1 rounded-full text-sm font-semibold; }
+  .badge-violet  { @apply bg-accent-violet text-white px-3 py-1 rounded-full text-sm font-semibold; }
+  .badge-orange  { @apply bg-accent-orange text-white px-3 py-1 rounded-full text-sm font-semibold; }
+}
+@layer utilities {
+  .text-accent-mint { @apply text-accent-mint; }
+  .text-accent-violet { @apply text-accent-violet; }
+  .text-accent-orange { @apply text-accent-orange; }
+}
