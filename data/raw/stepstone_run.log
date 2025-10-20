@@ -1,0 +1,55 @@
+[13:28:09] 🌐 Langues: fr, nl – Concurrency: 4 – Throttle: 0.8s – Retries: 4
+[13:28:10] 📄 Page 1/170 (0.6%) – 0 offres cumulées [fr]
+[13:28:10] [LIST] https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=831
+[13:28:10] ⚠️ HTTP/2 error – retry 1/4 après 1.2s
+[13:28:11] ⚠️ HTTP/2 error – retry 2/4 après 2.2s
+[13:28:14] ⚠️ HTTP/2 error – retry 3/4 après 3.9s
+[13:28:18] ⚠️ HTTP/2 error – retry 4/4 après 7.0s
+[13:28:25] ⚠️ Erreur chargement page liste 831: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=831
+Call log:
+  - navigating to "https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=831", waiting until "domcontentloaded"
+
+Call log:
+  - navigating to "https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=831", waiting until "domcontentloaded"
+[13:28:26] 📄 Page 2/170 (1.2%) – 0 offres cumulées [fr]
+[13:28:26] [LIST] https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=832
+[13:28:26] ⚠️ HTTP/2 error – retry 1/4 après 1.2s
+[13:28:27] ⚠️ HTTP/2 error – retry 2/4 après 2.2s
+[13:28:29] ⚠️ HTTP/2 error – retry 3/4 après 3.9s
+[13:28:33] ⚠️ HTTP/2 error – retry 4/4 après 7.0s
+[13:28:40] ⚠️ Erreur chargement page liste 832: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=832
+Call log:
+  - navigating to "https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=832", waiting until "domcontentloaded"
+
+Call log:
+  - navigating to "https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=832", waiting until "domcontentloaded"
+[13:28:41] 📄 Page 3/170 (1.8%) – 0 offres cumulées [fr]
+[13:28:41] [LIST] https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=833
+[13:28:41] ⚠️ HTTP/2 error – retry 1/4 après 1.2s
+[13:28:42] ⚠️ HTTP/2 error – retry 2/4 après 2.2s
+[13:28:45] ⚠️ HTTP/2 error – retry 3/4 après 3.9s
+[13:28:49] ⚠️ HTTP/2 error – retry 4/4 après 7.0s
+[13:28:56] ⚠️ Erreur chargement page liste 833: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=833
+Call log:
+  - navigating to "https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=833", waiting until "domcontentloaded"
+
+Call log:
+  - navigating to "https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=833", waiting until "domcontentloaded"
+[13:28:56] 📄 Page 4/170 (2.4%) – 0 offres cumulées [fr]
+[13:28:56] [LIST] https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=834
+[13:28:57] ⚠️ HTTP/2 error – retry 1/4 après 1.2s
+[13:28:58] ⚠️ HTTP/2 error – retry 2/4 après 2.2s
+[13:29:00] ⚠️ HTTP/2 error – retry 3/4 après 3.9s
+[13:29:04] ⚠️ HTTP/2 error – retry 4/4 après 7.0s
+[13:29:11] ⚠️ Erreur chargement page liste 834: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=834
+Call log:
+  - navigating to "https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=834", waiting until "domcontentloaded"
+
+Call log:
+  - navigating to "https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=834", waiting until "domcontentloaded"
+[13:29:12] 📄 Page 5/170 (2.9%) – 0 offres cumulées [fr]
+[13:29:12] [LIST] https://www.stepstone.be/emplois?searchOrigin=Resultlist_top-search&page=835
+[13:29:12] ⚠️ HTTP/2 error – retry 1/4 après 1.2s
+[13:29:13] ⚠️ HTTP/2 error – retry 2/4 après 2.2s
+[13:29:15] ⚠️ HTTP/2 error – retry 3/4 après 3.9s
+[13:29:19] ⚠️ HTTP/2 error – retry 4/4 après 7.0s
