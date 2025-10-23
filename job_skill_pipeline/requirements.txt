@@ -1,0 +1,7 @@
+langchain
+langchain-community
+openai
+deep-translator
+sentence-transformers
+pandas
+tqdm
